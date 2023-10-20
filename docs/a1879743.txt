@@ -14,4 +14,4 @@
 
 ### Resolved
 
-removed the high severity issue with insertion of xxxxxxx
+removed the low severity issue with insertion of UPPERCASE
